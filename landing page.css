@@ -116,11 +116,12 @@ cursor: pointer;
 .whatsapp-link:hover {
     color: #00f85f;
     text-shadow: 0 0 5px rgba(0, 255, 89, 0.745);
+    margin-left: 1%;
 }       
 
 .call {
     color: #727272;
-    margin-right: 1%;
+    
 }
 .call:hover {
     color: #286fad;
